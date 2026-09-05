@@ -3,5 +3,5 @@ void main() {
 }
 
 void main2() {
-    int const q = 103;
+    int const q = 102;
 }
